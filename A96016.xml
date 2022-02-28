@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender invitation unto all those that want peace with God, by reason of the burden of sin that keeps them from acceptance with the Lord Jesus, and from an assurance of salvation, though it be very desirable to them.</title>
+            <author>Vokins, Joan, d. 1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96016</idno>
+            <idno type="STC">Wing V687</idno>
+            <idno type="STC">ESTC R186073</idno>
+            <idno type="EEBO-CITATION">45578487</idno>
+            <idno type="OCLC">ocm 45578487</idno>
+            <idno type="VID">172399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender invitation unto all those that want peace with God, by reason of the burden of sin that keeps them from acceptance with the Lord Jesus, and from an assurance of salvation, though it be very desirable to them.</title>
+                  <author>Vokins, Joan, d. 1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year MDCLXXXVII. [1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Joan Vokins.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Redemption.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:172399:1" rendition="simple:additions"/>
+            <head>A TENDER
+INVITATION
+Unto all thoſe that want Peace with GOD, by reaſon of the burden of Sin that keeps them from acceptance with the LORD
+JESUS, and from an Aſſurance of SALVATION, though it be very deſirable to them.</head>
+            <p>OH its the weary and heavy laden that he tenders reſt unto,
+and they that take heed to his good Spirit which is Light,
+and leaves off that which it <hi>condemns,</hi> and follows its <hi>in<g ref="char:EOLhyphen"/>ſtructions,</hi>
+they obtain the way of <hi>Life,</hi> and he becomes
+their <hi>Shepherd, and they hear his voice, and a Stranger they will not hear,
+but they follow him,</hi> and he feeds them with that which the <hi>Strangers</hi> to
+his voice and <hi>Hireling Shepherds</hi> cannot attain unto by all their <hi>Arts</hi>
+or <hi>Parts</hi> external, but it comes to be enjoyed by <hi>Faith</hi> in <hi>Chriſt Jeſus</hi>
+that gives <hi>Victory over Sin,</hi> and therefore its time for all People to con<g ref="char:EOLhyphen"/>ſider;
+and as the Apoſtle ſaid, <hi>To try and examin their ſelves, whether
+they be in the true Faith or no,</hi> for there is no <hi>true Faith</hi> but that which
+<hi>ſtands</hi> in the <hi>Almighty Power,</hi> and that gives <hi>Victory over the Power of
+Darkneſs;</hi> and without this <hi>Faith</hi> it is impoſſible to <hi>pleaſe</hi> God, as it is
+left upon Record in the <hi>Scriptures of Truth:</hi> So <hi>All</hi> is to believe in the
+<hi>Son of God,</hi> who is the <hi>Light</hi> of the World, and hath enlightened eve<g ref="char:EOLhyphen"/>ry
+<hi>One</hi> that comes into the World, as ſaith the <hi>Scripture;</hi> and in the
+univerſal love of God, <hi>He gave his Son for a Light to enlighten the Gen<g ref="char:EOLunhyphen"/>tiles,
+and to be Salvation unto the ends of the Earth,</hi> and he <hi>Died</hi> for all;
+and his <hi>love</hi> ſo far extended unto all both <hi>Male and Female,</hi> that he
+would have <hi>None</hi> to <hi>Periſh,</hi> but that all by turning to his <hi>good Spirit,</hi>
+may be ſaved from all that the <hi>evil Spirit</hi> leads into, for whoſoever,
+follows the <hi>leadings</hi> of the <hi>Spirit</hi> of <hi>Jeſus,</hi> who is given for a <hi>Leader</hi> of his
+<hi>People,</hi> he leads them in the <hi>Path of Righteouſneſs,</hi> and as they come to
+be <hi>Servants of Righteouſneſs,</hi> they come to be free from <hi>Sin;</hi> but <hi>John</hi>
+ſaid in his Epiſtle, <hi>That the ſervants of ſin are free from Righteouſneſs,
+and they that commit ſin are of the Devil,</hi> for he is the original of <hi>Sin,</hi>
+but <hi>Chriſt Jeſus</hi> is the original of the <hi>pure and holy undefiled Religion</hi> that
+keeps from the evil of the World, which is <hi>Pride, Adultery, Lying,
+Cheating,</hi> and <hi>Idolatry,</hi> and <hi>Superſtition,</hi> and other <hi>ſpots</hi> that thoſe are
+<hi>ſtained</hi> with who are not acquainted wi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h him, that ſaid, <hi>Wiſdom leads
+in the midſt of the Paths of Judgment, <gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o teach them that love me to inhe<g ref="char:EOLhyphen"/>rit
+ſubſtance;</hi> there is much talking of loving him, but few inclined to
+keep his Commands, and much talking of his <hi>fear,</hi> but little ſtanding
+in aw, ſo as not to offend him; but ſo far are many from <hi>taking heed</hi>
+unto the meaſure of his <hi>Spirit</hi> of <hi>Light,</hi> as he hath placed in their hearts,
+that they do not know it <hi>leading</hi> them to the heart cleanſing fear; for
+if they did, how could they <hi>plead</hi> for <hi>Sin,</hi> ſo long as they remain in
+theſe Bodies; whereas it hath been ſaid by the Spirit of the <hi>Lord,</hi> and
+left upon <hi>Scripture Record, That the fear of the Lord, is as a Fountain of
+Life to depart from the ſnares of Death:</hi> and the beginning of the true
+<hi>Wiſdom,</hi> and a good <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> have all they that follow after it,
+for they depart from <hi>Iniquity,</hi> and it cleanſes the heart and keeps it
+clean, according to the <hi>Testimonies</hi> as the <hi>Scripture</hi> bares <hi>Record</hi> of;
+and therefore unto it I recommend all <hi>People,</hi> that all may have the
+priviledg of it, that their hearts may be cleanſed, for it is well known
+<hi>there is no Repentance in the Grave,</hi> but as <hi>Death</hi> leaves, <hi>Righteous Judg<g ref="char:EOLhyphen"/>ment</hi>
+will find; and therefore let the <hi>Long Suffering</hi> and <hi>Patience</hi> of the
+<hi>Lord</hi> lead to <hi>Repentance, Such a Repentance that needs no repenting of,</hi>
+a changing of the Heart, abſtaining and refraining from every appear<g ref="char:EOLhyphen"/>ance
+of <hi>Evil:</hi> This is that which the <hi>Lord</hi> hath long waited for, and
+doth yet wait to be good and gracious unto all thoſe that <hi>confeſs</hi> and
+<hi>forſake</hi> their evil <hi>Thoughts, Words</hi> and <hi>Works,</hi> and they ſhall ſurely find
+<hi>Mercy</hi> with him, and be acquainted with him, and feel acceptance with
+him, and know the work of his <hi>Sanctifying Power</hi> to <hi>Sanctifie</hi> through<g ref="char:EOLhyphen"/>out
+in <hi>Body, Soul</hi> and <hi>Spirit,</hi> that the <hi>Work</hi> of <hi>Sanctification</hi> may not be
+to do when the <hi>Meſſenger of Death</hi> will not be denied, for then it will
+be too late <hi>to work out Salvation with fear and trembling:</hi> And therefore
+it would be good for all to conſider how good the <hi>Lord</hi> is, in that he
+hath conſidered the <hi>Frailty</hi> of all <hi>Fleſh,</hi> and hath given unto every
+one a <hi>meaſure</hi> of his good Spirit, to help our <hi>Infirmities,</hi> and to teach
+us: But if we neglect the <hi>gift</hi> of <hi>God,</hi> we ſhall be unexcuſable in the
+day of account, and he will be clear of us all; and therefore let all be
+diligent to here the <hi>Word</hi> of <hi>Reconciliation;</hi> that the <hi>Work</hi> thereof may
+be experienced, for it begets again unto <hi>God,</hi> thoſe that were afar off, and
+when the <hi>Work</hi> of <hi>Regeneration</hi> is witneſſed, and the birth of the <hi>Wa<g ref="char:EOLhyphen"/>ter
+of Life,</hi> and <hi>Spirit of Jeſus;</hi> then the new Creature that avails with
+<hi>God,</hi> comes to be in <hi>unity</hi> and <hi>peace</hi> with him, and then the <hi>Spirit</hi> of
+<hi>Jeſus</hi> bears Witneſs to the <hi>Spirits</hi> of ſuch, that they are the <hi>Children of
+the Lord,</hi> but except a being born again, there can be no entering into
+the <hi>Kingdom;</hi> for the firſt birth cannot enter: in the firſt <hi>Adam</hi>'s na<g ref="char:EOLhyphen"/>ture,
+all are dead but they that are <hi>begotten</hi> again by the <hi>Word of Gods
+Power,</hi> as the <hi>Scripture</hi> teſtifies, if they come to be <hi>changed</hi> into the
+<hi>nature</hi> of the <hi>Second Adam,</hi> the <hi>Lord</hi> from <hi>Heaven,</hi> the <hi>Quickening Spi<g ref="char:EOLhyphen"/>rit,</hi>
+in him all ſuch are made alive, and as they live in his <hi>Fear,</hi> and
+do not grieve his <hi>Spirit,</hi> their ſufficiency is in the <hi>Ingrafted Word</hi> of his
+<hi>Grace</hi> that is able to ſave, and in the ſame do witneſs <hi>preſervation,</hi> as
+in the days of old; it is the ſame that <hi>David</hi> hid in his Heart, that he
+might not ſin againſt the <hi>Lord, and it was as a Lanthorn unto his Feet,
+and a Light unto his paths:</hi> And ſo it is now, <hi>bleſſed be the Name of the
+Lord,</hi> unto them that are truly watchful in it; but thoſe that are <hi>obey<g ref="char:EOLhyphen"/>ing
+the Power of Darkneſs,</hi> breaks the command of <hi>Chriſt Jeſus,</hi> and its
+left upon <hi>Scripture Reord,</hi> that he did not ſay only unto one, but unto
+all, <hi>Watch;</hi> and ſurely it is as much need as ever, for us to keep a
+<hi>narrow Watch,</hi> and that in the <hi>Light;</hi> for our <hi>Souls Enemy</hi> works al<g ref="char:EOLhyphen"/>ways
+in the dark, and except we keep a continual <hi>Watch</hi> over our
+Hearts; in that which doth diſcover his <hi>Snares</hi> we cannot eſcape; and
+ſo let all that have any ſenſe, that it is their <hi>Duty</hi> to wait upon the <hi>Lord,</hi>
+be careful to keep the command of <hi>Watchfulneſs,</hi> that the <hi>Enemy</hi> nor
+any of his <hi>Inſtruments</hi> do not prevent from waiting in ſtilneſs upon the
+<hi>Lord,</hi> for he doth renew the <hi>ſtrength</hi> of them that do truly wait upon him
+and have ſaid, <hi>That they ſhall run and not be weary, and walk and not
+faint;</hi> and now he is fulfilling the Scripture, wherein it was ſaid, <hi>The
+Children of the Lord, ſhall be taught of the Lord, and they ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed
+in Righteouſneſs, and great ſhall be their Peace.</hi> Oh! let all that
+want it, hearken unto the <hi>true Shepheard</hi> of the <hi>little Flock,</hi> for whom
+the <hi>Kingdom is prepared,</hi> who incourages them, and bids them fear not
+though the <hi>Woolfiſh Deſtroyer</hi> is nigh unto them; yet he is the <hi>Over-ſeer,</hi>
+and in all trials and exerciſes he is their <hi>Preſervation;</hi> and them that
+have been exerciſed deeply, and tried throughly, they can tell of his
+<hi>Wonderful Works,</hi> and have cauſe to ſpeak well of his <hi>moſt worthy name,</hi>
+and to invite others to come and taſte and ſee for themſelves how good
+the <hi>Lord</hi> is, in that he gives all a time of tender <hi>Viſitation.</hi> Oh! that
+People would but conſider it before it be too late, that while the good
+<hi>Spirit of Light</hi> is ſtriving, their hearts may be affected with it, and
+joyned to it, for it will not always ſtrive; and therefore let ſuch as
+could not come into <hi>Obedience</hi> becauſe of <hi>Sufferings;</hi> now conſider how
+good the <hi>Lord</hi> is in that he hath calmed the ſtorms of <hi>Perſecution,</hi> and
+opened a door for ſuch as are convinced to come into <hi>Obedience;</hi> let
+them now perform what they promiſed to the Lord, when they were
+looking to ſee what the <hi>Lord</hi> would do with his poor deſpiſed People
+(called <hi>Quakers</hi>) for ſaid they, <hi>Its the Truth that they ſuffer for, but we can<g ref="char:EOLhyphen"/>not
+ſuffer for it; their Sufferings is too hard for us to bear, elſe we ſhould
+own it.</hi> Oh! let all ſuch truly conſider the wonderful <hi>Love of God,</hi> that
+his <hi>tender Mercy</hi> may not be diſregarded, nor his great Love <hi>under<g ref="char:EOLhyphen"/>valued,</hi>
+but let every ſuch a one double their diligence, and make no
+delaies, for delaies in this <hi>weighty concern,</hi> are very dangerous; for
+who knows how little time they have to come, or what it may bring
+forth; therefore that the <hi>preſent time</hi> be not <hi>ill ſpent, But while it is to
+day, if any will hear his Voice, let them not harden their Hearts, as it
+was in the Day of Provocation.</hi> For many are the <hi>invitations</hi> of the great
+<hi>Love of God,</hi> and if it be ſlighted, he will certainly with-hold his <hi>Mer<g ref="char:EOLhyphen"/>cies;</hi>
+and therefore we have great need to <hi>imbrace</hi> his <hi>Love,</hi> that we
+may not provoke him to <hi>Wrath;</hi> for he is juſt, and will render unto
+all People according to their doings.</p>
+            <closer>
+               <dateline>Charlow, <date>14 day of the
+3d Month, 1687.</date>
+               </dateline>
+               <signed>Joan Vokins.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed in the Year MDCLXXXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
